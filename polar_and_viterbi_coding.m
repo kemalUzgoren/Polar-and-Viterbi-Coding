@@ -265,3 +265,4 @@ ylim([10^-6, 1]);
 yticks(10.^(-6:1:0));
 grid on;
 legend('Polar BER (dB)','BPSK BER (dB)', 'Viterbi BER (dB)');
+
